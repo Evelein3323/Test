@@ -8,5 +8,7 @@ public class main{
         n = n % 3 == 1 ? 1 : 0;
 
         System.out.println(n - n % 1);
+        System.out.println("Hello World!!!");
+        System.out.println("Hi!!!");
     }
 }
